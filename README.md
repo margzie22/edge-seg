@@ -1,6 +1,6 @@
 # edge-segmentation of retinal layers
 
-This project is fo edge detection of retinal layers which is based on Sobel, Canny and Robert models.
+This project is fo edge detection of retinal layers using computer vision which is based on Sobel, Canny and Robert models.
 Additionally U-net is used to make predictions on the different layers
 
 For the Deep Learning alogorithm U-net model it is based on
